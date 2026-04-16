@@ -1,2 +1,4 @@
-# Devlookup-project-evaluation
-project evaluation of devlookup recruitment . date - 17/4/26
+devlookup Project evaluation
+
+React + Vite recreation of the  homepage with responsive desktop/mobile layout and hamburger menu behavior.
+
